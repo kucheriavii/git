@@ -1,2 +1,3 @@
-#git lessons
-#i am so lazy
+
+git config --global user.email <..>
+git config --global user.name <..>

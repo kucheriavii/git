@@ -11,3 +11,5 @@ git config --list
 
 #13 Области Git_720p
 #14 Рабочая директория (working directory)_720p
+
+>git status

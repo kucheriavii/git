@@ -13,3 +13,5 @@ git config --list
 #14 Рабочая директория (working directory)_720p
 
 >git status
+
+#nothing done

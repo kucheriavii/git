@@ -16,3 +16,5 @@ git config --list
 
 #nothing done
 #nothing done
+
+27 Пример репозитория - второй коммит_720p
